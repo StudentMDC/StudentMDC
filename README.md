@@ -8,7 +8,7 @@
 </p>
 
 - 🎓 Currently studying at **ENSAM Casablanca**
-- 🌱 Learning and building with **Angular, Spring Boot, and AI tools**
+- 🌱 Learning and building with **Angular, Spring Boot, and Microservices-based architectures**
 - 💡 Interested in **AI-powered Web Applications** and **Human–Computer Interaction**
 - 🚀 Looking for a **PFE Internship (4–6 months)** starting **January/February 2026**
 - 📫 Reach me at **mariamdouch3@gmail.com**
