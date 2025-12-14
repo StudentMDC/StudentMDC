@@ -1,40 +1,87 @@
 <h1 align="center">Hi 👋, I'm Mariam Douch</h1>
-<h3 align="center">3rd-year Engineering Student in AI & Computer Engineering | Passionate about Full-Stack Development and AI Integration</h3>
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9xMGhnaTg0Z2NqazBibHU2YWphdXkzY3p1NnRjajE3d3lyOXJyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=studentmdc&label=Profile%20views&color=0e75b6&style=flat" alt="studentmdc" /> 
+<p align="center">
+  <strong>3rd-year Engineering Student in AI & Computer Engineering</strong><br/>
+  <em>Full-Stack Development • AI Integration • Human–Computer Interaction</em>
 </p>
 
-- 🎓 Currently studying at **ENSAM Casablanca**
-- 🌱 Learning and building with **Angular, Spring Boot, and Microservices-based architectures**
-- 💡 Interested in **AI-powered Web Applications** and **Human–Computer Interaction**
-- 🚀 Looking for a **PFE Internship (4–6 months)** starting **January/February 2026**
-- 📫 Reach me at **mariamdouch3@gmail.com**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=studentmdc&label=Profile%20views&color=0e75b6&style=flat" alt="studentmdc" />
+</p>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9xMGhnaTg0Z2NqazBibHU2YWphdXkzY3p1NnRjajE3d3lyOXJyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
+
+### 👩‍💻 About Me
+
+* 🎓 **ENSAM Casablanca** — Engineering student (AI & Computer Engineering)
+* 🌱 Building with **Angular, Spring Boot, Microservices**
+* 💡 Exploring **AI-powered Web Apps** & **HCI**
+* 🚀 Seeking a **PFE Internship (4–6 months)** — **Jan/Feb 2026**
+* 📫 **[mariamdouch3@gmail.com](mailto:mariamdouch3@gmail.com)**
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/mariamdc" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariamdc" height="30" width="40" />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/mariamdc" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- GitHub -->
+
+  <a href="https://github.com/StudentMDC" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Email -->
+
+  <a href="mailto:mariamdouch3@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentMDC&layout=compact&theme=radical)
+### 🧰 Tech Snapshot & 📂 Featured Projects
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+#### 🧰 Tech Snapshot
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentMDC\&layout=compact\&theme=radical)
+
+</td>
+<td width="55%" valign="top">
+
+#### 📂 Featured Projects
+
+* 🎫 **NPEP – National Public Events Platform**
+  *Angular · Spring Boot · REST · RabbitMQ · Keycloak · PostgreSQL · Docker · Kubernetes*
+  Microservices-based platform for managing public events with REST/RabbitMQ communication and centralized authentication.
+
+* 🩸 **AnemiaWare – Anemia Detection and Monitoring**
+  *Angular · Spring Boot · Spring Security · Python · FastAPI · PostgreSQL · JUnit · ML*
+  Complete application to prevent and detect anemia, including nutritional advice and ML-based detection.
+
+* 💼 **OptiFlowERP – Mini ERP for IT Purchases**
+  *Angular · Laravel · PHP · CSS · MySQL*
+  Optimized for IT department purchase management with real-time tracking of requests and orders.
+
+* 🧠 **ACE Interview – Immersive Interview Training Platform**
+  *Unity · Whisper · BERT · LLaMA 3 · ElevenLabs · Flask · MongoDB*
+  3D immersive interview platform combining real-time voice analysis, AI-driven feedback, and report generation.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="left">📂 Featured Projects:</h3>
-
-- 🩸 **AnemiaAware** — ML-powered anemia detection & nutrition assistant *(Angular, Spring Boot, Python, PostgreSQL)*  
-- 🧠 **ACE Interview** — Immersive AI-driven interview trainer *(Unity, Whisper, BERT, Flask, MongoDB)*  
-- 💼 **OptiFlowERP** — Mini ERP for IT purchase management *(Angular, Laravel, MySQL)*  
-- 👶 **2ndSnuggle** — Baby clothing resale platform *(React, Tailwind CSS, JSON API)*
-
----
-
-<h3 align="center">✨ “Code with purpose, learn with passion.” ✨</h3>
+<p align="center"><strong>✨ “Code with purpose, learn with passion.” ✨</strong></p>
