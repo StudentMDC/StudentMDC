@@ -54,7 +54,9 @@
 <td width="45%" valign="top">
 
 #### 🧰 Tech Snapshot
-<img src="https://gitmystat.vercel.app/top?username=StudentMDC&layout=bar"/>
+<!-- <img src="https://camo.githubusercontent.com/1012584fe3f0867b4199b803b5dac5b611bde4e4da5286a025d3e8b2499c944e/68747470733a2f2f6769746d79737461742e76657263656c2e6170702f746f703f757365726e616d653d53747564656e744d4443266c61796f75743d626172"
+https://gitmystat.vercel.app/top?username=StudentMDC&layout=bar
+/> -->
 
 </td>
 <td width="55%" valign="top">
