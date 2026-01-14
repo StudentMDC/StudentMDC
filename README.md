@@ -54,8 +54,7 @@
 <td width="45%" valign="top">
 
 #### 🧰 Tech Snapshot
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentMDC\&layout=compact\&theme=radical)
+<img src="https://gitmystat.vercel.app/top?username=StudentMDC&layout=bar"/>
 
 </td>
 <td width="55%" valign="top">
