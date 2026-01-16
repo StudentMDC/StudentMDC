@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mariam Douch</h1>
+<h1 align="center">Hi 👋, I'm Mariam</h1>
 <p align="center">
   <strong>3rd-year Engineering Student in AI & Computer Engineering</strong><br/>
   <em>Full-Stack Development • AI Integration • Human–Computer Interaction</em>
@@ -10,9 +10,12 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9xMGhnaTg0Z2NqazBibHU2YWphdXkzY3p1NnRjajE3d3lyOXJyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="left" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9xMGhnaTg0Z2NqazBibHU2YWphdXkzY3p1NnRjajE3d3lyOXJyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
 
-### 👩‍💻 About Me
+
+<h2 align="center">
+About Me
+</h2>
 
 * 🎓 **ENSAM Casablanca** — Engineering student (AI & Computer Engineering)
 * 🌱 Building with **Angular, Spring Boot, Microservices**
@@ -21,10 +24,10 @@
 * 📫 **[mariamdouch3@gmail.com](mailto:mariamdouch3@gmail.com)**
 
 ---
-
-### 🌐 Connect with Me
-
-<p align="left">
+<h2 align="center">
+Connect with Me
+</h2>
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/mariamdc" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -47,7 +50,10 @@
 
 ---
 
-### 🧰 Tech Snapshot & 📂 Featured Projects
+<h2 align="center">
+Tech Snapshot & Featured Projects
+</h2>
+
 
 <table>
 <tr>
