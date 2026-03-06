@@ -10,14 +10,14 @@
 About Me
 </h2>
 
-<img align="right" width="502" src="https://github.com/user-attachments/assets/72cbb7d0-f09f-43a1-b748-7248840f6d39" alt="studentmdc" />
+<img align="right" width="400" src="https://github.com/user-attachments/assets/72cbb7d0-f09f-43a1-b748-7248840f6d39" alt="studentmdc" />
 
 
 
 
 
-* 🎓 **ENSAM Casablanca** — Student
-* 🌱 Building with **Angular, Spring Boot, Microservices**
+* 🎓 School: **ENSAM Casablanca**
+* 🌱 Preferred Stack: **Angular & Spring Boot**
 * 💡 Exploring **AI-powered Web Apps**
 * 📫 **[mariamdouch3@gmail.com](mailto:mariamdouch3@gmail.com)**
 
