@@ -16,7 +16,7 @@ About Me
 
 
 
-* 🎓 **ENSAM Casablanca** — Engineering student (AI & Computer Engineering)
+* 🎓 **ENSAM Casablanca** — Student
 * 🌱 Building with **Angular, Spring Boot, Microservices**
 * 💡 Exploring **AI-powered Web Apps**
 * 📫 **[mariamdouch3@gmail.com](mailto:mariamdouch3@gmail.com)**
