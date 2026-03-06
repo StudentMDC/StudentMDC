@@ -10,17 +10,18 @@
 
 ---
 
-<img align="left" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9xMGhnaTg0Z2NqazBibHU2YWphdXkzY3p1NnRjajE3d3lyOXJyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
-
-
 <h2 align="center">
 About Me
 </h2>
 
+<img align="right" alt="Coding" width="202" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9xMGhnaTg0Z2NqazBibHU2YWphdXkzY3p1NnRjajE3d3lyOXJyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
+
+
+
+
 * 🎓 **ENSAM Casablanca** — Engineering student (AI & Computer Engineering)
 * 🌱 Building with **Angular, Spring Boot, Microservices**
-* 💡 Exploring **AI-powered Web Apps** & **HCI**
-* 🚀 Seeking a **PFE Internship (4–6 months)** — **Jan/Feb 2026**
+* 💡 Exploring **AI-powered Web Apps**
 * 📫 **[mariamdouch3@gmail.com](mailto:mariamdouch3@gmail.com)**
 
 ---
