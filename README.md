@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mariam</h1>
 <p align="center">
-  <strong>3rd-year Engineering Student in AI & Computer Engineering</strong><br/>
+  <strong>Engineering Student in AI & Computer Science</strong><br/>
   <em>Full-Stack Development • AI Integration • Human–Computer Interaction</em>
 </p>
 
