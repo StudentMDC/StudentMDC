@@ -24,28 +24,5 @@ About Me
 * * *
 </p>
 
-<p align="center">
-  <strong> Connect with Me </strong>
-</p>
-
-<p align="center">
-
-  <!-- GitHub -->
-
-  <a href="https://github.com/StudentMDC" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- Email -->
-
-  <a href="mailto:mariamdouch3@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
-
-<p align="center">
-* * *
-</p>
 
 <p align="center"><strong>✨ “Code with purpose, learn with passion.” ✨</strong></p>
