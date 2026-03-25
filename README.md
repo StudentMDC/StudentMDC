@@ -19,7 +19,6 @@ About Me
 * 🎓 School: **ENSAM Casablanca**
 * 🌱 Preferred Stack: **Angular & Spring Boot**
 * 💡 Exploring **AI-powered Web Apps**
-* 📫 **[mariamdouch3@gmail.com](mailto:mariamdouch3@gmail.com)**
 
 <p align="center">
 * * *
@@ -30,11 +29,6 @@ About Me
 </p>
 
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/mariamdc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
 
   <!-- GitHub -->
 
